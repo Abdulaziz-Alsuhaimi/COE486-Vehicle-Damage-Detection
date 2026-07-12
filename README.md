@@ -3,7 +3,7 @@
 
 **American University of Sharjah — Department of Computer Engineering**  
 **Instructor:** Dr. Omar Arif  
-**Group Members:** Student 1, Student 2, Student 3, Student 4
+**Group Members:** Abdulaziz Alsuhaimi, Ali AlQahtani, Mohamed AlZarooni, Jad Freij
 
 ---
 
