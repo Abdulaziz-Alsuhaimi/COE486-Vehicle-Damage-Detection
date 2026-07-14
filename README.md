@@ -115,6 +115,9 @@ This runs the unified model on any car image and draws bounding boxes around det
 
 ## Results Summary
 
+> **Note:** CBAM is currently injected as a wrapper around backbone layer 4. 
+> Future work will embed it directly within the C2f block for full fusion compatibility.
+
 | Metric | Baseline YOLOv8s | YOLOv8s + CBAM | Improvement |
 |---|---|---|---|
 | mAP@0.5 | 0.427 | 0.598 | ▲ 40.0% |
